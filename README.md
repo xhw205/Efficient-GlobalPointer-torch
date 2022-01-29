@@ -12,6 +12,7 @@
 
 [CMeEE](https://tianchi.aliyun.com/dataset/dataDetail?dataId=95414) 存放在:
 train_cme_path = ./datasets/CME/train.json
+
 eval_cme_path = ./datasets/CME/dev.json
 
 ### 预训练模型
